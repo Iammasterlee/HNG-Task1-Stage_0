@@ -10,7 +10,7 @@ A simple responsive profile card built using HTML, CSS, and JavaScript.
 
 🔗 Live Link
 
-[View Live Project](https://reliable-fox-89e20b.netlify.app/)
+[View Live Project] https://reliable-fox-89e20b.netlify.app
 
 How to Run Locally
 
